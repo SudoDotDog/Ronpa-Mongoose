@@ -16,11 +16,11 @@
   },
   "homepage": "https://github.com/SudoDotDog/Ronpa-Mongoose#readme",
   "devDependencies": {
-    "@sudoo/io": "^1.6.2",
+    "@sudoo/io": "^1.8.0",
     "@sudoo/triforce": "^2.9.11",
-    "@types/mongoose": "^5.5.43",
-    "mongoose": "^5.8.9",
-    "ronpa": "^1.12.1"
+    "@types/mongoose": "^5.10.3",
+    "mongoose": "^5.11.8",
+    "ronpa": "^1.12.3"
   },
   "peerDependencies": {
     "mongoose": "*",
