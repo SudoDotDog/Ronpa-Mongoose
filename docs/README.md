@@ -6,3 +6,11 @@
 [![downloads](https://img.shields.io/npm/dm/@ronpa/mongoose.svg)](https://www.npmjs.com/package/@ronpa/mongoose)
 
 :ram: Mongoose implement for Ronpa
+
+## Install
+
+```sh
+yarn add @ronpa/mongoose
+# Or
+npm install @ronpa/mongoose --save
+```
