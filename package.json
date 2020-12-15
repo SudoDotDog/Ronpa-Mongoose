@@ -17,7 +17,7 @@
   "homepage": "https://github.com/SudoDotDog/Ronpa-Mongoose#readme",
   "devDependencies": {
     "@sudoo/io": "^1.6.2",
-    "@sudoo/triforce": "^2.1.0",
+    "@sudoo/triforce": "^2.9.11",
     "@types/mongoose": "^5.5.43",
     "mongoose": "^5.8.9",
     "ronpa": "^1.12.1"
