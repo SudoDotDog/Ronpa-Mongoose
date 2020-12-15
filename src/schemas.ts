@@ -116,6 +116,12 @@ export const RonpaFlatRecordSchema: Schema = new Schema({
         required: false,
     },
 
+    // Read
+    readBy: {
+        type: [String],
+        required: false,
+    },
+
     // Extras
     extras: {
         type: Schema.Types.Mixed,
