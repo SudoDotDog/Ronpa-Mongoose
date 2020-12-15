@@ -15,7 +15,6 @@
     "url": "https://github.com/SudoDotDog/Ronpa-Mongoose/issues"
   },
   "homepage": "https://github.com/SudoDotDog/Ronpa-Mongoose#readme",
-  "dependencies": {},
   "devDependencies": {
     "@sudoo/io": "^1.6.2",
     "@sudoo/triforce": "^2.1.0",
